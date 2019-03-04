@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MIC2290
+K Boost
+$ENDCMP
+#
 #End Doc Library
