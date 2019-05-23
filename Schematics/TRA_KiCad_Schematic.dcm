@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP FAN5331
+D High Efficiency Serial LED Driver and OLED Supply with 20V Integrated Switch
+K LED Driver, OLED Driver, Boost
+$ENDCMP
+#
 $CMP MIC2290
 K Boost
 $ENDCMP
