@@ -1,5 +1,16 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ESP-12F
+D 802.11 b/g/n Wi-Fi Module
+K 802.11 Wi-Fi
+F http://wiki.ai-thinker.com/_media/esp8266/esp8266_series_modules_user_manual_v1.1.pdf
+$ENDCMP
+#
+$CMP FAN5331
+D High Efficiency Serial LED Driver and OLED Supply with 20V Integrated Switch
+K LED Driver, OLED Driver, Boost
+$ENDCMP
+#
 $CMP MIC2290
 K Boost
 $ENDCMP

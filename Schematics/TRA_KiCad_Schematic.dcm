@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ESP-12F
+D 802.11 b/g/n Wi-Fi Module
+K 802.11 Wi-Fi
+$ENDCMP
+#
 $CMP FAN5331
 D High Efficiency Serial LED Driver and OLED Supply with 20V Integrated Switch
 K LED Driver, OLED Driver, Boost
